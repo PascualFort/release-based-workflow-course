@@ -140,7 +140,7 @@ Merge this feature pull request so that you can open the release pull request as
 </details>
 
 <!--Step 3-->
-<details id=3>
+<details id=3 open>
 <summary><h2>Step 3: Open a release pull request</h2></summary>
 
 _Nice work adding a new feature :smile:_
